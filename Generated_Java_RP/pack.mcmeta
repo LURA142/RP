@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Multi-Item Java RP Pack (26.1.2 (pack_format 84, item_model))",
+        "min_format": 84,
+        "max_format": 999
+    }
+}

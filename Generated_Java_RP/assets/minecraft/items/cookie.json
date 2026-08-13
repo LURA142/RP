@@ -1,0 +1,69 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cookie"
+        },
+        "entries": [
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/coconat"
+                }
+            },
+            {
+                "threshold": 1001.001,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cookie"
+                }
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/ananas"
+                }
+            },
+            {
+                "threshold": 1002.001,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cookie"
+                }
+            },
+            {
+                "threshold": 1003,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/freshegg"
+                }
+            },
+            {
+                "threshold": 1003.001,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cookie"
+                }
+            },
+            {
+                "threshold": 1004,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/marshmelow"
+                }
+            },
+            {
+                "threshold": 1004.001,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cookie"
+                }
+            }
+        ]
+    }
+}
